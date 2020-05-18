@@ -72,5 +72,5 @@ Some comments on usage of each function that corresponds to a query type:
   - You can insert multiple rows if you pass a list or tupe in the data element.
 
 
-![AETHON](https://aethon.gr/wp-content/uploads/2019/07/AETHON_logo_animated.gif)
+![AETHON](https://aethon.gr/wp-content/uploads/2019/07/AETHON_logo_animated.gif =250x250)
   
